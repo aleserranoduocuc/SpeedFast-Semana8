@@ -24,4 +24,4 @@ Script SQL incluido en `/db/script_estructura.sql`
 4. Ejecutar `Main.java`.
 
 ## 👤 Autor
-[Tu nombre]
+Alejandro Serrano
