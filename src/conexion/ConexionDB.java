@@ -11,7 +11,7 @@ public class ConexionDB {
 
     private static final String URL = "jdbc:mysql://localhost:3306/speedfast_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "Zelda2775434"; // ← CAMBIA ESTO
+    private static final String PASSWORD = "Zelda2775434";   // ← tu contraseña
 
     /**
      * Obtiene una conexión activa a la base de datos.
